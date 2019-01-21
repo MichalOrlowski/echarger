@@ -3,7 +3,7 @@
 ## REST documentation
 
 ### Create price definition
-`POST` `/prices`
+`POST` `/price-definitions`
 
 #### Example request:
 ```json
@@ -20,7 +20,7 @@
 `400` `Bad Request`
 
 ### Get price definition
-`GET` `/prices/{id}`
+`GET` `/price-definitions/{id}`
 
 #### Example response:
 ```json
