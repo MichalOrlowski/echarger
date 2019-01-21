@@ -35,7 +35,7 @@
 `GET` `/prices/{customerId}/{chargingStart}/{chargingEnd}`
 
 #### Parameters
-`customerId` - customer identification number (example: 10)
+`customerId` - customer identification number (example: 10) *Right now all customers with even id are VIPs
 
 `chargingStart` -  charging start date time (example: 1986-04-08T12:30:00)
 
